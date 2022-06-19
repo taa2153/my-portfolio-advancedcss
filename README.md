@@ -1,5 +1,5 @@
 # my-portfolio-advancedcss
-Deployed link :
+Deployed link : https://taa2153.github.io/my-portfolio-advancedcss/
 
 User Story
 AS AN employer
