@@ -1,4 +1,6 @@
 # my-portfolio-advancedcss
+Deployed link :
+
 User Story
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
@@ -22,3 +24,17 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Wireframe mock-up done of figma
 figma link: https://www.figma.com/file/yX9nLZB1LAFkMHshwL7fcL/Untitled?node-id=0%3A1
 
+Desktop wireframe
+![figma_wireframe_1](https://user-images.githubusercontent.com/104754072/174497162-5662f80c-de1a-4d3d-956c-0c7b93ebb61a.JPG)
+tablet wireframe
+![figma_wireframe_2](https://user-images.githubusercontent.com/104754072/174497168-54b84f4a-9879-4ea4-8865-68bc88f643de.JPG)
+mobile wireframe
+![figma_wireframe_3](https://user-images.githubusercontent.com/104754072/174497172-c47a8c3f-de2d-4379-89da-9fd7d951e989.JPG)
+
+Final 
+desktop
+![desktop-1](https://user-images.githubusercontent.com/104754072/174497187-99b5dfdc-58a0-4d5d-a080-75fb87919c8f.JPG)
+tablet
+![Tablet-1](https://user-images.githubusercontent.com/104754072/174497194-59094832-879d-4515-a6d3-a554b8d5ac9d.JPG)
+mobile
+![mobile-1](https://user-images.githubusercontent.com/104754072/174497204-6e589a73-069a-4950-8666-8370c44d9304.JPG)
